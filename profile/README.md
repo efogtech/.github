@@ -1,6 +1,4 @@
-# efog.tech 
-
-This is an "organization" for [my](https://github.com/efogdev) personal projects. 
+# efog.tech projects
 
 ## [Endgame Trackball](https://github.com/efogtech/endgame-trackball)
 
