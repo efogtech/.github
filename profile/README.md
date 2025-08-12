@@ -2,4 +2,5 @@
 
 ## [Endgame Trackball](https://github.com/efogtech/endgame-trackball)
 
-![20250728_060028](https://github.com/user-attachments/assets/34a6d464-b352-43d1-8576-2fcf0d073f17)
+![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
+
